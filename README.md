@@ -1,5 +1,7 @@
 # StashExchange
 
+[![Hex.pm](https://img.shields.io/hexpm/v/stash_exchange.svg?style=flat)](https://hex.pm/packages/stash_exchange)
+
 The single value storage.
 
 A demo projects. It was used as an example for the [Publishing Elixir packages to Hex.pm](http://whatdidilearn.info/2018/06/17/publishing-elixir-packages-to-hex.html) article.
